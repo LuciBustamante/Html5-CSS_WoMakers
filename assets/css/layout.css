@@ -1,0 +1,15 @@
+/* 
+    Adicionar os estilos das estruturas que nao se repetem na página como header, main, footer e sidebar
+*/
+body {
+	background-color: #313131;
+	height: 100vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	font-family: 'Roboto Condensed', sans-serif;
+	color: #f4f4f4;
+	--color-emphasis: #B2EBF2;
+	--color-greensh: #144046;
+	line-height: 1.5;
+}
